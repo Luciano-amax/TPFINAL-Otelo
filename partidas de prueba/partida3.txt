@@ -1,0 +1,16 @@
+El abuelo,B
+Norman Osborn,N
+B
+F4
+D3
+C4
+F3
+D6
+C6
+E6
+F5
+B7
+A8
+C5
+D6
+D7
